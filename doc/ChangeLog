@@ -1,3 +1,9 @@
+2022-11-27
+- move folders around in order to have 3 basic folders
+  src together with lang for translations, doc for all
+  documentation, extensions for all extension and themes
+  for customisation (Yves De Billo‘z)
+
 2007-09-16 release 5.7.1 (official)
 - finalizations, README & Makefile updates
 - added support for various language encodings
