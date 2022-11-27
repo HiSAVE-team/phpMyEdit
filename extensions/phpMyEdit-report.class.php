@@ -17,7 +17,7 @@
  * http://platon.sk/projects/phpMyEdit/
  */
 
-/* $Platon: phpMyEdit/extensions/phpMyEdit-report.class.php,v 1.11 2004/12/30 19:59:00 nepto Exp $ */
+/* $Platon: phpMyEdit/extensions/phpMyEdit-report.class.php,v 1.12 2006-01-22 21:44:23 nepto Exp $ */
 
 /* Extension TODO:
 
@@ -142,7 +142,7 @@ class phpMyEdit_report extends phpMyEdit
 				'type'   => 'select',
 				'select' => '*',
 				'from'   => $this->tb,
-				'limit'  => '1');
+				'limit'  => $this->sql_limit('1'));
 		$result = $this->myquery($this->get_SQL_query($query_parts), __LINE__);
 		$all_table_cols = array_keys(@mysql_fetch_array($result, MYSQL_ASSOC));
 		if (count($all_table_cols) <= 0) {
