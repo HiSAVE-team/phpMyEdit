@@ -15,6 +15,7 @@ The following folders are present:
   sub-folder of the public_html folder;
 - themes: list of folders with different theme names, to replace files in the 
   src files in case a different theme is to be used;
+- tools: Different tools that are needed during the development and publishing.
 
 The starting point is the public repository of phpMyEdit 5.7.1. All changes are
 listed in the doc/ChangeLog.
