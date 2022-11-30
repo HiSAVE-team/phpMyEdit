@@ -1,0 +1,54 @@
+/* css for phpMyEdit 5.7.1 - phpMyEditSetup */
+
+body {
+    font-family: "Verdana", "Arial", "Sans-Serif";
+    text-align: left;
+    background-color: white;
+}
+
+h1 {
+    color: #004d9c;
+    font-size: 13pt;
+    font-weight: bold;
+}
+
+h2 {
+    color: #004d9c;
+    font-size: 11pt;
+    font-weight: bold;
+}
+
+h3 {
+    color: #004d9c;
+    font-size: 11pt;
+}
+
+p {
+    color: #004d9c;
+    font-size: 9pt;
+}
+
+table {
+    border: 1px solid #004d9c;
+    border-collapse: collapse;
+    border-spacing: 0px;
+}
+
+td {
+    border: 1px solid;
+    padding: 3px;
+    color: #004d9c;
+    font-size: 9pt;
+}
+
+hr {
+    height: 1px;
+    background-color: #000000;
+    color: #000000;
+    border: solid #000000 0;
+    padding: 0;
+    margin: 0;
+    border-top-width: 1px;
+}
+
+/* eof */

@@ -3,6 +3,7 @@
 - remove tab characters in source files, remove inconsistent 
   line and file endings
 - correct location of alternative theme
+- move css to specific css files
 
 2022-11-27
 - move folders around in order to have 3 basic folders

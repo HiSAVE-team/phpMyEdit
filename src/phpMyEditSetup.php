@@ -28,29 +28,9 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
     <title>phpMyEdit Setup</title>
-    <style type="text/css">
-    <!--
-        body  { font-family: "Verdana", "Arial", "Sans-Serif"; text-align: left }
-        h1    { color: #004d9c; font-size: 13pt; font-weight: bold }
-        h2    { color: #004d9c; font-size: 11pt; font-weight: bold }
-        h3    { color: #004d9c; font-size: 11pt; }
-        p     { color: #004d9c; font-size: 9pt; }
-        table { border: 1px solid #004d9c; border-collapse: collapse; border-spacing: 0px; }
-        td    { border: 1px solid; padding: 3px; color: #004d9c; font-size: 9pt; }
-        hr
-        {
-        height: 1px;
-        background-color: #000000;
-        color: #000000;
-        border: solid #000000 0;
-        padding: 0;
-        margin: 0;
-        border-top-width: 1px;
-        }
-    -->
-    </style>
+    <link rel="stylesheet" href="phpMyEditSetup.css?v=5.7.1" />
 </head>
-<body bgcolor="white">
+<body>
 
 <?php
 
@@ -509,19 +489,7 @@ new phpMyEdit(\$opts);
 ");
 
     $css_directive = <<<END
-<style type="text/css">
-    hr.pme-hr             { border: 0px solid; padding: 0px; margin: 0px; border-top-width: 1px; height: 1px; }
-    table.pme-main          { border: #004d9c 1px solid; border-collapse: collapse; border-spacing: 0px; width: 100%; }
-    table.pme-navigation { border: #004d9c 0px solid; border-collapse: collapse; border-spacing: 0px; width: 100%; }
-    td.pme-navigation-0, td.pme-navigation-1 { white-space: nowrap; }
-    th.pme-header         { border: #004d9c 1px solid; padding: 4px; background: #add8e6; }
-    td.pme-key-0, td.pme-value-0, td.pme-help-0, td.pme-navigation-0, td.pme-cell-0,
-    td.pme-key-1, td.pme-value-1, td.pme-help-0, td.pme-navigation-1, td.pme-cell-1,
-    td.pme-sortinfo, td.pme-filter { border: #004d9c 1px solid; padding: 3px; }
-    td.pme-buttons { text-align: left;   }
-    td.pme-message { text-align: center; }
-    td.pme-stats   { text-align: right;  }
-</style>
+<link rel="stylesheet" href="phpMyEdit.css?v=5.7.1" />
 END;
     if (! $CSSstylesheet) {
         $css_directive = '';
