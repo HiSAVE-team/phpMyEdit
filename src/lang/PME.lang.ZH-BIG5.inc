@@ -57,10 +57,10 @@ return Array(
                         '10'=>'十月',
                         '11'=>'十一月',
                         '12'=>'十二月'),
-		// phpMyEdit-report
-		'Make report'			=> '產生報表',
-		'Select fields'			=> '選取欄位',
-		'Records per screen'	=> '每頁筆數',
-		);
+        // phpMyEdit-report
+        'Make report'            => '產生報表',
+        'Select fields'            => '選取欄位',
+        'Records per screen'    => '每頁筆數',
+        );
 
 ?>

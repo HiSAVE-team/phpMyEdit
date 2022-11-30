@@ -1,5 +1,7 @@
 2022-12-01
 - add scripts in tools folder to remove inconsistent formatting
+- remove tab characters in source files, remove inconsistent 
+  line and file endings
 - correct location of alternative theme
 
 2022-11-27

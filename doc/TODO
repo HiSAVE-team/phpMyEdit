@@ -137,8 +137,5 @@ phpMyEdit TODO list
 * add information about installation and remove phpMyEditSetup file after
   configuration of all tables
 * move TODO list to markdown format
-* standard formatting of multiple files:
-  - replace TAB characters with spaces in some files
-  - remove trailing spaces on files
 * add information or scripts on document generation
 * support for php 7.x and 8.x
