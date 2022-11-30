@@ -60,5 +60,3 @@ return Array(
         'Select fields'            => 'Выбрать поля',
         'Records per screen'    => 'Записей на экране',
         );
-
-?>

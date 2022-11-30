@@ -60,5 +60,3 @@ return Array(
         'Select fields'            => htmlentities('Vali väljad'),
         'Records per screen'    => 'Kirjeid lehe kohta',
         );
-
-?>

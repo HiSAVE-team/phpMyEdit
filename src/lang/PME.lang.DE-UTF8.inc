@@ -64,5 +64,3 @@ return Array(
         'Select fields'            => 'Felder auswählen',
         'Records per screen'    => 'Datensätze pro Anzeige',
         );
-
-?>

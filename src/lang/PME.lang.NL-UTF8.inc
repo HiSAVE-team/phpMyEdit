@@ -64,5 +64,3 @@ return Array(
         'Select fields'            => 'Selecteer velden',
         'Records per screen'    => 'Rij per scherm',
         );
-
-?>

@@ -60,5 +60,3 @@ return Array(
         'Select fields'    => 'Pilih Nilai',
         'Records per screen'=> 'Jumlah nilai perhalaman',
         );
-
-?>

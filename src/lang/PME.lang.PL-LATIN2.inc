@@ -56,5 +56,3 @@ return Array(
             '11'=>'Listopad',
             '12'=>'Grudzieñ')
         );
-
-?>

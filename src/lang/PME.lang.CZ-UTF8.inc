@@ -60,5 +60,3 @@ return Array(
         'Select fields'            => 'Vybrat pole',
         'Records per screen'    => 'Počet záznamů na stránce',
         );
-
-?>

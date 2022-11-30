@@ -3376,5 +3376,3 @@ function '.$this->js['prefix'].'filter_handler(theForm, theEvent)
  * vim:set ts=4:
  * vim600:fdm=marker fdl=0 fdc=0:
  * }}} */
-
-?>

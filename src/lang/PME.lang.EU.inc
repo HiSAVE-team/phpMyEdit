@@ -60,5 +60,3 @@ return Array(
         'Select fields'            => 'Eremuak aukertau',
         'Records per screen'    => 'Erregistroak orrialdeko',
         );
-
-?>

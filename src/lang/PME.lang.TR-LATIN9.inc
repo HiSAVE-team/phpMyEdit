@@ -62,5 +62,3 @@ return Array(
         'Select fields'            => 'Alanlarý seçiniz',
         'Records per screen'    => 'Sayfa baþýna kayýt',
         );
-
-?>

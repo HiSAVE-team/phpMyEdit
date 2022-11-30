@@ -60,5 +60,3 @@ return Array(
         'Select fields'            => 'Select fields',
         'Records per screen'    => 'Records per screen',
         );
-
-?>

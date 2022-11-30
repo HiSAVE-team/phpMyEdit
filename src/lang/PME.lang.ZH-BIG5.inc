@@ -62,5 +62,3 @@ return Array(
         'Select fields'            => '選取欄位',
         'Records per screen'    => '每頁筆數',
         );
-
-?>

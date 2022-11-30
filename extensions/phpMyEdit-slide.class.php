@@ -117,5 +117,3 @@ class phpMyEdit_slide extends phpMyEdit
  * vim:set ts=4:
  * vim600:fdm=marker fdl=0 fdc=0:
  * }}} */
-
-?>

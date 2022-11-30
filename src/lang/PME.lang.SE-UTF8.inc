@@ -69,5 +69,3 @@ return Array(
         'Select fields'            => 'Välj fält',
         'Records per screen'    => 'Poster per skärm',
         );
-
-?>

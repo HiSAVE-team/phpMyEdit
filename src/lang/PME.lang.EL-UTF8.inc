@@ -60,5 +60,3 @@ return Array(
         'Select fields'            => 'Επιλογή πεδίων',
         'Records per screen'    => 'Εγγραφές ανά οθόνη',
         );
-
-?>

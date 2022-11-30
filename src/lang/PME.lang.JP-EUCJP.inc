@@ -60,5 +60,3 @@ return Array(
         'Select fields'            => 'フィールド選択',
         'Records per screen'    => 'ページ表示',
         );
-
-?>

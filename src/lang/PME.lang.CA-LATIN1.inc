@@ -60,5 +60,3 @@ return Array(
         'Select fields'    => 'Seleccionar camps',
         'Records per screen'    => 'Registres per pantalla',
         );
-
-?>

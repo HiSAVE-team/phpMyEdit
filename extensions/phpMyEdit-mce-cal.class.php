@@ -536,5 +536,3 @@ class phpMyEdit_mce_cal extends phpMyEdit
     } /* }}} */
 
 }
-
-?>

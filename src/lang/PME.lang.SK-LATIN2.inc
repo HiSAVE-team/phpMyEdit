@@ -60,5 +60,3 @@ return Array(
         'Select fields'            => 'Vybra» ståpce',
         'Records per screen'    => 'Poèet záznamov na stránke',
         );
-
-?>
