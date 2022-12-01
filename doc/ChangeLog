@@ -4,6 +4,7 @@
   line and file endings
 - correct location of alternative theme
 - move css to specific css files
+- migrate html standard to v5 & utf8, add viewport information
 
 2022-11-27
 - move folders around in order to have 3 basic folders
